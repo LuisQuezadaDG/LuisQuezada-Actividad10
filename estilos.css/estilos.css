@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+#titulo{
+ background-color: #ff4c68;
+	}
+	
+#caracteristicas {
+		padding: 7% 15%;
+		background-color: #fff;
+	}
+
+#testimonios {
+ padding: 7% 15%;
+ text-align: center;
+ background-color: #ef8172;
+ color: #fff;
+}
+.img-testimonio{
+ width: 10%;
+ border-radius: 100%;
+ margin: 20px;
+}
+
+#prensa{
+ background-color: #ef8172;
+ text-align: center;
+ padding-bottom: 3%;
+}
+
+#precios{
+text-align: center;
+padding-top: 3%;
+background-color: #fff;
+}
+
+h1 {
+	 font-family: 'Montserrat', sans-serif;
+	 font-weight: 900;
+	 font-size: 3.5rem;
+	 line-height: 1.5;
+}
+.title-image{
+ width: 60%;
+ transform: rotate(25deg);
+}
+
+.caja-caracteristicas {
+	text-align: center;
+	padding: 5%; 
+	}
+
+.logo-prensa {
+ width: 15%;
+ margin: 20px 20px 50px;
+}
+
+h2 {
+	font-family: "Montserrat";
+	font-size: 3.0rem;
+	font-weight: 900;
+	line-height: 1.5;
+}
+
+h3{
+	font-family: 'Montserrat';
+ 	font-size: 1.5rem;
+ 	font-weight: bold;
+}
+p{
+ color: #8f8f8f;
+}
+.icon{
+	color: #ef8172;
+	padding: 1rem
+}
+
+.carousel-item{
+ padding: 7% 15%;
+}
